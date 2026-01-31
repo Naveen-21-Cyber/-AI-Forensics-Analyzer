@@ -7,7 +7,13 @@
 [![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
 [![Status](https://img.shields.io/badge/status-production-success.svg)](https://github.com)
 
-![AI Forensics Banner](https://via.placeholder.com/1200x300/18181b/a1a1aa?text=AI+Image+Forensics+Tool)
+![AI Forensics Banner] <img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/9c3125a2-183d-4c8d-a8a8-2f6ac1eac254" />
+<img width="1919" height="864" alt="Screenshot 2026-01-31 155433" src="https://github.com/user-attachments/assets/998c2be9-a32f-4a57-aec5-c1887f6809fd" />
+<img width="1895" height="863" alt="Screenshot 2026-01-31 155454" src="https://github.com/user-attachments/assets/11d6a5fe-e7b6-4309-815d-c6f736571c70" />
+<img width="1899" height="870" alt="Screenshot 2026-01-31 155506" src="https://github.com/user-attachments/assets/a7f60f69-269e-45a1-af20-d8414b6956f0" />
+<img width="1899" height="870" alt="Screenshot 2026-01-31 155506" src="https://github.com/user-attachments/assets/e46086e9-f2e4-4bf4-b19f-c37c783daf7c" />
+<img width="1758" height="845" alt="Screenshot 2026-01-31 155609" src="https://github.com/user-attachments/assets/04192412-0442-4fe5-9743-79eb796265f5" />
+
 
 ---
 
